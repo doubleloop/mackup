@@ -27,6 +27,7 @@
 - Add support for DaisyDisk (via @cafferata)
 - Add support for MySQLWorkbench (via @cafferata)
 - Add support for Openbox (via @jpfarcy)
+- Improved support for fasd (via @doubleloop)
 
 ## Mackup 0.8.16
 
